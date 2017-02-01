@@ -1,3 +1,6 @@
-# My Awesome Book
+Здесь я буду описывать свой путь развития, анализировать свои действия, размышлять над проблемами.
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+
+
+

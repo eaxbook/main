@@ -8,4 +8,6 @@
 * [Февраль-Март. Бесконтрольный бегун.](fevral.md)
 * [Март](mart-aprel.md)
 * [Апрель](aprel.md)
+* [plan B](plan-b.md)
+* [Размышления](razmishleniya.md)
 

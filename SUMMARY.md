@@ -2,6 +2,7 @@
 
 * [main](/main.md)
   * [about](/main/me.md)
+  * [current](main/current.md)
   * [ideology](main/ideology.md)
 * [Introduction](README.md)
 * [Январь. Бесконтрольная тряпка.](yanvar-fevral.md)
@@ -10,4 +11,5 @@
 * [Апрель](aprel.md)
 * [plan B](plan-b.md)
 * [Размышления](razmishleniya.md)
+* [Список для визуализации](spisok-dlya-vizualizatsii.md)
 

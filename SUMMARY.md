@@ -13,4 +13,5 @@
 * [Размышления](razmishleniya.md)
 * [Список для визуализации](spisok-dlya-vizualizatsii.md)
 * [Механизмы поведения, шаблоны и предпосылки](mehanizmi-povedeniya-shabloni-i-predposilki.md)
+* [Июль](iyul.md)
 

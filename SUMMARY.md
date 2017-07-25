@@ -9,6 +9,7 @@
 * [Размышления](razmishleniya.md)
 * [Список для визуализации](spisok-dlya-vizualizatsii.md)
 * [Механизмы поведения, шаблоны и предпосылки](mehanizmi-povedeniya-shabloni-i-predposilki.md)
+* [Теория таскменеджмента](teoriya-taskmenedzhmenta.md)
 
 ## Планирование. Анализ. События.
 

@@ -5,6 +5,7 @@
   * [current](main/current.md)
   * [философия2](main/ideology.md)
   * [Я как "механизм"](main/ya-kak-mehanizm.md)
+* [Факты](fakti.md)
 * [plan B](plan-b.md)
 * [Размышления](razmishleniya.md)
 * [Список для визуализации](spisok-dlya-vizualizatsii.md)

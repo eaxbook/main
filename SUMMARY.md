@@ -1,28 +1,27 @@
 # Summary
 
-* [main](/main.md)
-  * [about](/main/me.md)
-  * [current](main/current.md)
-  * [философия2](main/ideology.md)
-  * [Я как "механизм"](main/ya-kak-mehanizm.md)
-* [Факты](fakti.md)
-* [plan B](plan-b.md)
-* [Размышления](razmishleniya.md)
-* [Список для визуализации](spisok-dlya-vizualizatsii.md)
-* [Механизмы поведения, шаблоны и предпосылки](mehanizmi-povedeniya-shabloni-i-predposilki.md)
-* [Теория таскменеджмента](teoriya-taskmenedzhmenta.md)
-
-## Планирование. Анализ. События.
-
 * [Introduction](README.md)
-* [Январь. Бесконтрольная тряпка.](yanvar-fevral.md)
-* [Февраль-Март. Бесконтрольный бегун.](fevral.md)
-* [Март](mart-aprel.md)
-* [Апрель](aprel.md)
-* [Июль](iyul.md)
-
-## Философия
-
-* [storage](filosofiya/storage.md)
-* [workspace](filosofiya/workspace.md)
+* [Самоанализ](razmishleniya.md)
+  * [Проблемы, переживания и их решение](razmishleniya/problemi-perezhivaniya-i-ih-reshenie.md)
+  * [Влияние стрессовой ситуации на мое состояние.](razmishleniya/problemi-vliyanie-stressa/vliyanie-stressovoi-situatsii-na-moe-sostoyanie.md)
+  * [Работа "методом тыка" в экстренной ситуации](razmishleniya/problemi-vliyanie-stressa/rabota-metodom-tika-v-ekstrennoi-situatsii.md)
+  * [Невозможность размышлений в "уме"](razmishleniya/nevozmozhnost-razmishlenii-v-ume.md)
+  * [Головные проблемы](razmishleniya/golovnie-problemi.md)
+  * [current](main/current.md)
+  * [about](/main/me.md)
+* [Workspace](workspace.md)
+  * [Причина и цель задачи](workspace/prichina-i-tsel-zadachi.md)
+  * [Невыполнение дел из-за ощущения недостаточной важности](razmishleniya/problemi-vliyanie-stressa/produktivnost/nevipolnenie-del-iz-za-oschuscheniya-nedostatochnoi-vazhnosti.md)
+  * [Философия](filosofiya/workspace.md)
+  * [Теория таскменеджмента](teoriya-taskmenedzhmenta.md)
+  * [философия tmp](workspace/filosofiya-tmp.md)
+  * [Механизмы поведения, шаблоны и предпосылки](mehanizmi-povedeniya-shabloni-i-predposilki.md)
+* Планирование. Анализ.
+  * [Март](mart.md)
+  * [Апрель](aprel.md)
+  * [Июль](iyul.md)
+  * [Февраль-Март. Бесконтрольный бегун.](fevral.md)
+  * [Январь. Бесконтрольная тряпка.](yanvar-fevral.md)
+* [Storage](storage.md)
+  * [Список для визуализации](spisok-dlya-vizualizatsii.md)
 

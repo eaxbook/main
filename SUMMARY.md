@@ -7,6 +7,7 @@
   * [Работа "методом тыка" в экстренной ситуации](razmishleniya/problemi-vliyanie-stressa/rabota-metodom-tika-v-ekstrennoi-situatsii.md)
   * [Невозможность размышлений в "уме"](razmishleniya/nevozmozhnost-razmishlenii-v-ume.md)
   * [Головные проблемы](razmishleniya/golovnie-problemi.md)
+  * [Депрессия, подавленность, отсутствие настроения](razmishleniya/depressiya-podavlennost-otsutstvie-nastroeniya.md)
   * [current](main/current.md)
   * [about](/main/me.md)
 * [Workspace](workspace.md)

@@ -23,6 +23,7 @@
   * [Июль](iyul.md)
   * [Февраль-Март. Бесконтрольный бегун.](fevral.md)
   * [Январь. Бесконтрольная тряпка.](yanvar-fevral.md)
+  * [Август](avgust.md)
 * [Storage](storage.md)
   * [Список для визуализации](spisok-dlya-vizualizatsii.md)
 

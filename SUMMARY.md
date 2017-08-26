@@ -10,6 +10,7 @@
   * [Депрессия, подавленность, отсутствие настроения](razmishleniya/depressiya-podavlennost-otsutstvie-nastroeniya.md)
   * [current](main/current.md)
   * [about](/main/me.md)
+  * [Я в роли Тони Роббинса](razmishleniya/ya-v-roli-toni-robbinsa.md)
 * [Workspace](workspace.md)
   * [Причина и цель задачи](workspace/prichina-i-tsel-zadachi.md)
   * [Невыполнение дел из-за ощущения недостаточной важности](razmishleniya/problemi-vliyanie-stressa/produktivnost/nevipolnenie-del-iz-za-oschuscheniya-nedostatochnoi-vazhnosti.md)

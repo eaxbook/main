@@ -18,6 +18,7 @@
   * [Теория таскменеджмента](teoriya-taskmenedzhmenta.md)
   * [философия tmp](workspace/filosofiya-tmp.md)
   * [Механизмы поведения, шаблоны и предпосылки](mehanizmi-povedeniya-shabloni-i-predposilki.md)
+  * [Модель \(опыт, восприятие, суждения, решения\)](workspace/model-opit-vospriyatie-suzhdeniya-resheniya.md)
 * Планирование. Анализ.
   * [Март](mart.md)
   * [Апрель](aprel.md)

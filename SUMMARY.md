@@ -14,6 +14,7 @@
   * [Я ученый](razmishleniya/ya-uchenii.md)
   * [Медленные эмоции или их отсутствие](razmishleniya/medlennie-emotsii-ili-ih-otsutstvie.md)
   * [Свобода действий](razmishleniya/svoboda-deistvii.md)
+  * [Быстрые перемены](razmishleniya/bistrie-peremeni.md)
 * [Workspace](workspace.md)
   * [Причина и цель задачи](workspace/prichina-i-tsel-zadachi.md)
   * [Невыполнение дел из-за ощущения недостаточной важности](razmishleniya/problemi-vliyanie-stressa/produktivnost/nevipolnenie-del-iz-za-oschuscheniya-nedostatochnoi-vazhnosti.md)
@@ -26,6 +27,7 @@
     * [Workspace](workspace/workspace.md)
     * [Родители и дети](workspace/vospitanie.md)
   * [Я в роли руководителя в IT команде](workspace/ya-v-roli-rukovoditelya-v-it-komande.md)
+  * [Надо. Хочу. Могу.](workspace/nado-hochu-mogu.md)
 * Планирование. Анализ.
   * [Март](mart.md)
   * [Апрель](aprel.md)

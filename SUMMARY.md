@@ -19,6 +19,7 @@
   * [Затухание эмоций](razmishleniya/zatuhanie-emotsii.md)
   * [Интроверт или Экстраверта или и то и другое?](razmishleniya/introvert-ili-ekstraverta-ili-i-to-i-drugoe.md)
   * [Я-Ребенок \(Эрик Берн\)](razmishleniya/ya-rebenok-erik-bern.md)
+  * [Разные деятельности одновременно](razmishleniya/raznie-deyatelnosti-odnovremenno.md)
 * [Workspace](workspace.md)
   * [Причина и цель задачи](workspace/prichina-i-tsel-zadachi.md)
   * [Невыполнение дел из-за ощущения недостаточной важности](razmishleniya/problemi-vliyanie-stressa/produktivnost/nevipolnenie-del-iz-za-oschuscheniya-nedostatochnoi-vazhnosti.md)

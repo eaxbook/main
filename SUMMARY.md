@@ -45,4 +45,6 @@
   * [Список для визуализации](spisok-dlya-vizualizatsii.md)
   * [tmp](tmp.md)
   * [Размышления](razmishleniya.md)
+  * Может пригодиться
+    * [Управление хозяином](upravlenie-hozyainom.md)
 

@@ -33,6 +33,7 @@
     * [Родители и дети](workspace/vospitanie.md)
   * [Я в роли руководителя в IT команде](workspace/ya-v-roli-rukovoditelya-v-it-komande.md)
   * [Надо. Хочу. Могу.](workspace/nado-hochu-mogu.md)
+  * [Мысли](workspace/misli.md)
 * Планирование. Анализ.
   * [Март](mart.md)
   * [Апрель](aprel.md)

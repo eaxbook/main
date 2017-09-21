@@ -34,6 +34,7 @@
   * [Я в роли руководителя в IT команде](workspace/ya-v-roli-rukovoditelya-v-it-komande.md)
   * [Надо. Хочу. Могу.](workspace/nado-hochu-mogu.md)
   * [Мысли](workspace/misli.md)
+  * [Потребность.](workspace/potrebnost.md)
 * Планирование. Анализ.
   * [Март](mart.md)
   * [Апрель](aprel.md)
@@ -49,4 +50,7 @@
   * [Размышления](razmishleniya.md)
   * Может пригодиться
     * [Управление хозяином](upravlenie-hozyainom.md)
+  * [Knowledge](knowledge.md)
+    * [Теория функционых систем. Анохин.](knowledge/teoriya-funktsionih-sistem-anohin.md)
+      * [Модель функциональной системы.](knowledge/model-funktsionalnoi-sistemi.md)
 

@@ -35,6 +35,7 @@
   * [Надо. Хочу. Могу.](workspace/nado-hochu-mogu.md)
   * [Мысли](workspace/misli.md)
   * [Потребность.](workspace/potrebnost.md)
+  * [Первое выступление перед публикой.](workspace/pervoe-vistuplenie-pered-publikoi.md)
 * Планирование. Анализ.
   * [Март](mart.md)
   * [Апрель](aprel.md)

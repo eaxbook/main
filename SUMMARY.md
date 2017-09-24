@@ -37,6 +37,7 @@
   * [Мысли](workspace/misli.md)
   * [Потребность.](workspace/potrebnost.md)
   * [Первое выступление перед публикой.](workspace/pervoe-vistuplenie-pered-publikoi.md)
+  * [Презентация "20 по 20"](workspace/prezentatsiya-20-po-20.md)
 * Планирование. Анализ.
   * [Март](mart.md)
   * [Апрель](aprel.md)

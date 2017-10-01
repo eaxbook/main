@@ -42,7 +42,7 @@
   * [Август. Перемены. Размышления. Выход из дома.](avgust.md)
   * [Сентябрь.](sentyabr.md)
   * [Текущая ситуация.](tekuschaya-situatsiya.md)
-  * [Ноябрь.](noyabr.md)
+  * [Октябрь.](noyabr.md)
 * [Storage](storage.md)
   * [Список для визуализации](spisok-dlya-vizualizatsii.md)
   * [tmp](tmp.md)

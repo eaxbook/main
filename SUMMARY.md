@@ -43,6 +43,7 @@
   * [Сентябрь.](sentyabr.md)
   * [Текущая ситуация.](tekuschaya-situatsiya.md)
   * [Октябрь.](noyabr.md)
+  * [Планка.](planka.md)
 * [Storage](storage.md)
   * [Список для визуализации](spisok-dlya-vizualizatsii.md)
   * [tmp](tmp.md)

@@ -1,6 +1,13 @@
-h4 {
-  color: red;
+h1, h2, h3 {
   font-weight: normal !important;
+}
+
+h1 {
+  font-size: 200%;
+}
+
+h2 {
+  font-size: 240%;
 }
 
 .markdown-section p {

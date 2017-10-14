@@ -21,9 +21,9 @@
     * [Родители и дети](workspace/vospitanie.md)
   * [Потребность.](workspace/potrebnost.md)
   * [Суждения / убеждения](workspace/suzhdeniya.md)
-  * [Вопросы.](workspace/voprosi.md)
   * [Жизнь](workspace/zhizn.md)
-* [Размышления](workspace/misli.md)
+  * [Практическое](workspace/prakticheskoe.md)
+* [Размышления. summary](workspace/misli.md)
 * Планирование. Анализ.
   * [Март](mart.md)
   * [Апрель](aprel.md)

@@ -20,8 +20,7 @@
     * [Workspace](workspace/workspace.md)
     * [Родители и дети](workspace/vospitanie.md)
   * [Потребность.](workspace/potrebnost.md)
-  * [Суждения / убеждения](workspace/suzhdeniya.md)
-  * [Жизнь](workspace/zhizn.md)
+  * [Базовое.](workspace/zhizn.md)
   * [Практическое](workspace/prakticheskoe.md)
 * [Размышления. summary](workspace/misli.md)
 * Планирование. Анализ.

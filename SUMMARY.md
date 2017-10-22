@@ -21,7 +21,6 @@
     * [Родители и дети](workspace/vospitanie.md)
   * [Потребность.](workspace/potrebnost.md)
   * [Базовое.](workspace/zhizn.md)
-  * [Практическое](workspace/prakticheskoe.md)
 * [Размышления. summary](workspace/misli.md)
 * Планирование. Анализ.
   * [Март](mart.md)
@@ -54,6 +53,7 @@
     * [Депрессия, подавленность, отсутствие настроения](razmishleniya/depressiya-podavlennost-otsutstvie-nastroeniya.md)
     * [Я в роли Тони Роббинса](razmishleniya/ya-v-roli-toni-robbinsa.md)
     * [Медленные эмоции или их отсутствие](razmishleniya/medlennie-emotsii-ili-ih-otsutstvie.md)
+    * [Общество](workspace/obschestvo.md)
   * [Может пригодиться](mozhet-prigoditsya.md)
     * [Управление хозяином](upravlenie-hozyainom.md)
   * [Knowledge](knowledge.md)
@@ -61,4 +61,5 @@
       * [Модель функциональной системы.](knowledge/model-funktsionalnoi-sistemi.md)
   * Анализ
     * [29.09.17 Пропало самообладание](analiz-plohogo-dnya-2909.md)
+* [Мысли](misli.md)
 

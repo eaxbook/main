@@ -14,7 +14,7 @@
     * [Первое выступление перед публикой.](workspace/pervoe-vistuplenie-pered-publikoi.md)
     * [Презентация "20 по 20"](workspace/prezentatsiya-20-po-20.md)
     * [PechaKucha: как не стать успешным / как не достигать целей.](workspace/pechakucha-kak-ne-stat-uspeshnim-kak-ne-dostigat-tselei.md)
-* [Фундаментальные размышления](fundamentalnie-razmishleniya.md)
+* [Размышления](fundamentalnie-razmishleniya.md)
   * [Опыт + поведение.](workspace/model-opit-vospriyatie-suzhdeniya-resheniya.md)
     * [Типы суждений.](workspace/tipi-suzhdenii.md)
     * [Workspace](workspace/workspace.md)
@@ -30,7 +30,6 @@
   * [Январь. Бесконтрольная тряпка.](yanvar-fevral.md)
   * [Август. Перемены. Размышления. Выход из дома.](avgust.md)
   * [Сентябрь.](sentyabr.md)
-  * [Текущая ситуация.](tekuschaya-situatsiya.md)
   * [Октябрь.](noyabr.md)
   * [Планка.](planka.md)
 * [Storage](storage.md)
@@ -54,6 +53,7 @@
     * [Я в роли Тони Роббинса](razmishleniya/ya-v-roli-toni-robbinsa.md)
     * [Медленные эмоции или их отсутствие](razmishleniya/medlennie-emotsii-ili-ih-otsutstvie.md)
     * [Общество](workspace/obschestvo.md)
+    * Университет жизни
   * [Может пригодиться](mozhet-prigoditsya.md)
     * [Управление хозяином](upravlenie-hozyainom.md)
   * [Knowledge](knowledge.md)
@@ -61,6 +61,5 @@
       * [Модель функциональной системы.](knowledge/model-funktsionalnoi-sistemi.md)
   * Анализ
     * [29.09.17 Пропало самообладание](analiz-plohogo-dnya-2909.md)
-* [Мысли](misli.md)
 * [Наблюдения](nablyudeniya.md)
 

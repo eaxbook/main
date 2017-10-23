@@ -62,4 +62,5 @@
   * Анализ
     * [29.09.17 Пропало самообладание](analiz-plohogo-dnya-2909.md)
 * [Мысли](misli.md)
+* [Наблюдения](nablyudeniya.md)
 

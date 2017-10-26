@@ -59,6 +59,7 @@
   * [Knowledge](knowledge.md)
     * [Теория функционых систем. Анохин.](knowledge/teoriya-funktsionih-sistem-anohin.md)
       * [Модель функциональной системы.](knowledge/model-funktsionalnoi-sistemi.md)
+    * [Эмоциональный мозг. Симонов. ](knowledge/emotsionalnii-mozg-simonov.md)
   * Анализ
     * [29.09.17 Пропало самообладание](analiz-plohogo-dnya-2909.md)
 * [Наблюдения](nablyudeniya.md)

@@ -22,7 +22,7 @@
   * [Потребность.](workspace/potrebnost.md)
   * [Базовое.](workspace/zhizn.md)
 * [Размышления. summary](workspace/misli.md)
-* Планирование. Анализ.
+* [Планирование. Анализ.](planirovanie-analiz.md)
   * [Март](mart.md)
   * [Апрель](aprel.md)
   * [Июль](iyul.md)

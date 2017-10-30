@@ -41,6 +41,8 @@
     * [Теория функционых систем. Анохин.](knowledge/teoriya-funktsionih-sistem-anohin.md)
       * [Модель функциональной системы.](knowledge/model-funktsionalnoi-sistemi.md)
     * [Эмоциональный мозг. Симонов. ](knowledge/emotsionalnii-mozg-simonov.md)
+      * [Функции эмоций](knowledge/emotsionalnii-mozg-simonov/funktsii-emotsii.md)
+      * [Физиология](knowledge/emotsionalnii-mozg-simonov/fiziologiya.md)
   * [Планирование. Анализ.](planirovanie-analiz.md)
     * [Март](mart.md)
     * [Апрель](aprel.md)

@@ -2,6 +2,8 @@
 
 * [...](README.md)
 * [Общество](workspace/obschestvo.md)
+* [NOW](now.md)
+  * [Планка.](planka.md)
 * [Разработки](workspace/zhizn.md)
   * [Механизмы поведения, шаблоны и предпосылки](mehanizmi-povedeniya-shabloni-i-predposilki.md)
   * [Анализ состояний](golova.md)
@@ -13,8 +15,7 @@
     * [Я - Общество](workspace/ya-obschestvo.md)
     * [Я и потребности](workspace/ya-i-potrebnosti.md)
     * [Человек](workspace/chelovek.md)
-* [NOW](now.md)
-  * [Планка.](planka.md)
+  * [Жизненный опыт](zhiznennii-opit.md)
 * [Storage](storage.md)
   * [Knowledge](knowledge.md)
     * [Теория функционых систем. Анохин.](knowledge/teoriya-funktsionih-sistem-anohin.md)

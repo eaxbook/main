@@ -6,7 +6,7 @@
 * [current](current.md)
 * [Анализ состояний](golova.md)
 * [Абстрактный план](abstraktnii-plan.md)
-* Размышления
+* [Размышления](razmishleniya.md)
   * [Общество](workspace/obschestvo.md)
   * [Превосходство, неравенство](workspace/prevoshodstvo-neravenstvo.md)
     * [Манипулирование](workspace/prevoshodstvo-neravenstvo/manipulirovanie.md)

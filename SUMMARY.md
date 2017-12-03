@@ -40,6 +40,7 @@
     * [Workspace](workspace/workspace.md)
     * [Родители и дети](workspace/vospitanie.md)
   * [Уровни осознанности](urovni-osoznannosti.md)
+  * [Запасы воли](zapasi-voli.md)
 * [Storage](storage.md)
   * [Knowledge](knowledge.md)
     * [Теория функционых систем. Анохин.](knowledge/teoriya-funktsionih-sistem-anohin.md)

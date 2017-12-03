@@ -1,9 +1,12 @@
 # Summary
 
 * [...](README.md)
+* [Планка.](planka.md)
 * [NOW](now.md)
-  * [Планка.](planka.md)
-* [current](current.md)
+  * [Что делать дальше](chto-delat-dalshe.md)
+  * [current](current.md)
+  * Медитация
+  * [Соревнование](sorevnovanie.md)
 * [Анализ состояний](golova.md)
 * [Абстрактный план](abstraktnii-plan.md)
 * [Размышления](razmishleniya.md)

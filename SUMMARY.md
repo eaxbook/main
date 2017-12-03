@@ -1,13 +1,12 @@
 # Summary
 
-- [Планка.](planka.md)
+* [...](README.md)
 * [current](current.md)
 * [NOW](now.md)
   * [Что делать дальше](chto-delat-dalshe.md)
   * [Медитация](meditatsiya.md)
   * [Соревнование](sorevnovanie.md)
   * [Идеальное](abstraktnii-plan.md)
-* [Анализ состояний](golova.md)
 * [Я - Х](ya-h.md)
   * [Программирование](otnoshenie-k-programmirovaniyu.md)
   * [Деньги, заработок, продажи](workspace/dengi-dohod-zarabotok.md)
@@ -71,4 +70,6 @@
     * [23-](main/current.md)
     * [23+](razmishleniya/current-23+.md)
   * [WWW](diary.md)
+  * [Планка.](planka.md)
+  * [Анализ состояний](golova.md)
 

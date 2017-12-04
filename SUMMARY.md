@@ -7,6 +7,7 @@
   * [Медитация](meditatsiya.md)
   * [Соревнование](sorevnovanie.md)
   * [Идеальное](abstraktnii-plan.md)
+  * [Анализ состояний](golova.md)
 * [Я - Х](ya-h.md)
   * [Программирование](otnoshenie-k-programmirovaniyu.md)
   * [Деньги, заработок, продажи](workspace/dengi-dohod-zarabotok.md)
@@ -18,6 +19,7 @@
   * [Я - Общество](workspace/ya-obschestvo.md)
 * [Размышления](razmishleniya.md)
   * [Общество](workspace/obschestvo.md)
+  * [Путешествия](workspace/puteshestviya.md)
 * [Разработки](workspace/zhizn.md)
   * [Механизмы поведения, шаблоны и предпосылки](mehanizmi-povedeniya-shabloni-i-predposilki.md)
   * [Процесс извлечение из памяти](workspace/protsess-izvlechenie-iz-pamyati.md)
@@ -72,5 +74,4 @@
     * [23+](razmishleniya/current-23+.md)
   * [WWW](diary.md)
   * [Планка.](planka.md)
-  * [Анализ состояний](golova.md)
 

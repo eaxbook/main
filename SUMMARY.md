@@ -8,7 +8,10 @@
   * [Соревнование](sorevnovanie.md)
   * [Идеальное](ideal.md)
   * [Анализ состояний](golova.md)
-  * [План](abstraktnii-plan.md)
+  * [Новая работа 100тыс.](abstraktnii-plan.md)
+    * [Декабрь](abstraktnii-plan/dekabr.md)
+    * Январь
+    * Февраль
 * [Я - Х](ya-h.md)
   * [Программирование](otnoshenie-k-programmirovaniyu.md)
   * [Деньги, заработок, продажи](workspace/dengi-dohod-zarabotok.md)

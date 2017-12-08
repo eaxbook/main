@@ -12,6 +12,7 @@
     * [Декабрь](abstraktnii-plan/dekabr.md)
     * Январь
     * Февраль
+    * [Проблемы](abstraktnii-plan/problemi.md)
 * [Я - Х](ya-h.md)
   * [Программирование](otnoshenie-k-programmirovaniyu.md)
   * [Деньги, заработок, продажи](workspace/dengi-dohod-zarabotok.md)

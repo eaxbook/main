@@ -3,7 +3,6 @@
 * [...](README.md)
 * [current](current.md)
 * [NOW](now.md)
-  * [Что делать дальше](chto-delat-dalshe.md)
   * [Медитация](meditatsiya.md)
   * [Соревнование](sorevnovanie.md)
   * [Идеальное](ideal.md)

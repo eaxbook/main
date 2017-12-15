@@ -12,6 +12,8 @@
     * Январь
     * Февраль
     * [Проблемы](abstraktnii-plan/problemi.md)
+    * [Дневник](abstraktnii-plan/dnevnik.md)
+    * [Теория](abstraktnii-plan/teoriya.md)
 * [Я - Х](ya-h.md)
   * [Программирование](otnoshenie-k-programmirovaniyu.md)
   * [Деньги, заработок, продажи](workspace/dengi-dohod-zarabotok.md)
@@ -82,4 +84,6 @@
     * [23+](razmishleniya/current-23+.md)
   * [WWW](diary.md)
   * [Планка.](planka.md)
+  * Проблемы
+    * 14.12.17
 

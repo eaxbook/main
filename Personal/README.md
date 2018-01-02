@@ -1,0 +1,6 @@
+consider:
+
+* продажи/sales
+* 
+
+

@@ -16,10 +16,10 @@
   * [Я - Общество](workspace/ya-obschestvo.md)
 * [Я / Я - Я](samoanaliz.md)
   * [about](/main/me.md)
-  * [Механизмы поведения, шаблоны и предпосылки](mehanizmi-povedeniya-shabloni-i-predposilki.md)
-  * [Мои потребности](moi-potrebnosti.md)
-  * [Базовые особенности моей сущности](main/bazovie-osobennosti-moei-suschnosti.md)
-  * [Мои стороны](main/moi-storoni.md)
+  * [\* Механизмы поведения, шаблоны и предпосылки](mehanizmi-povedeniya-shabloni-i-predposilki.md)
+  * [\* Мои потребности](moi-potrebnosti.md)
+  * [\* Базовые особенности моей сущности](main/bazovie-osobennosti-moei-suschnosti.md)
+  * [\* Мои стороны](main/moi-storoni.md)
 * [NOW](now.md)
   * [\* Медитация](meditatsiya.md)
   * [Анализ состояний](golova.md)
@@ -43,10 +43,7 @@
   * [Внимание](workspace/vnimanie.md)
   * [Состояния, воля](main/sostoyanie.md)
   * [Почему люди делают то, что делают?](workspace/pochemu-lyudi-delayut-to-chto-delayut.md)
-  * Прикладное
-    * [Музыка](muzika.md)
-    * [Причина и цель задачи](workspace/prichina-i-tsel-zadachi.md)
-    * [Структура записей](struktura-zapisei.md)
+  * Индивид
 * [Storage](storage.md)
   * [Knowledge](knowledge.md)
     * [Теория функционых систем. Анохин.](knowledge/teoriya-funktsionih-sistem-anohin.md)
@@ -78,4 +75,8 @@
     * [23-](main/current.md)
     * [23+](razmishleniya/current-23+.md)
   * [Планка.](planka.md)
+* Прикладное
+  * [Музыка](muzika.md)
+  * [Причина и цель задачи](workspace/prichina-i-tsel-zadachi.md)
+  * [Структура записей](struktura-zapisei.md)
 
